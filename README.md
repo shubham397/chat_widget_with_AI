@@ -13,6 +13,13 @@ CodeSandbox – https://codesandbox.io/p/github/shubham397/chat_widget_with_AI/m
 - 🧾 Scrollable message history
 - 🎨 Clean, responsive UI with emojis
 
+## 🔧 Tech Stack
+
+- ⚛️ React
+- ⌨️ TypeScript
+- 🎨 CSS3 (no frameworks)
+- 🧠 REST API(OPEN AI)
+
 ## 📁 Folder Structure
 
 ```
